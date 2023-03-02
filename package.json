@@ -84,10 +84,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
+  "homepage": ""
 }
